@@ -14,7 +14,7 @@ Python (pandas, numpy) for data cleaning and transformation
 Tableau for interactive dashboards and visualizations 
 
 # Insights
-Tracked multiple campaign success rates across multiple demographics (education level, marital status, income)
-Analyzed customer income distribution across education level, marital status, and household size
-Identified high-value spending categories based on income
+- Tracked multiple campaign success rates across multiple demographics (education level, marital status, income)
+- Analyzed customer income distribution across education level, marital status, and household size
+- Identified high-value spending categories based on income
 
